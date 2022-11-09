@@ -1,5 +1,5 @@
 # sobre mim
-- 👋 ola meu nome é @liamee1505
+- 👋 ola meu nome é **@liamee1505**
 - :+1: meu email de contato é mendes.anny@escola.pr.gov.br
 - 👀 eu estou interessada em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch.
